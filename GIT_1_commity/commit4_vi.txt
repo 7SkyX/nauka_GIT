@@ -1,0 +1,1 @@
+Tutaj tworzę plik przy pomocy vi 

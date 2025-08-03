@@ -1,0 +1,4 @@
+git reset HEAD^
+git reset --soft HEAD^
+git reset --hard HEAD^
+

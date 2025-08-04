@@ -1,0 +1,7 @@
+uczymy się dalej:
+
+git reset --sotf HEAD^
+git reset HEAD^
+git reset --hard HEAD^
+
+

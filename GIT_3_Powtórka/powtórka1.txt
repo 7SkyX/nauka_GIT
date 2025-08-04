@@ -1,0 +1,5 @@
+Powtrzamy to się wczoraj uczyliśmy czyli. 
+
+git reset HEAD^		
+git reset --soft HEAD^
+git reset --hard HEAD^

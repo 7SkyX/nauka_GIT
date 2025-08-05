@@ -1,0 +1,5 @@
+Uczyłem się dzisiaj usuwać plik z staging area 
+git restore --staged <plik>  #plik wraca do working direction
+
+
+
